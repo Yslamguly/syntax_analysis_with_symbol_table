@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/complier_project.iml" filepath="$PROJECT_DIR$/.idea/complier_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/syntax_analysis_with_symbol_table.iml" filepath="$PROJECT_DIR$/.idea/syntax_analysis_with_symbol_table.iml" />
     </modules>
   </component>
 </project>
